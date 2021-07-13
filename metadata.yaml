@@ -1,5 +1,8 @@
 _repo: Run-Little-Monster_65741
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65741-h/images/cover.jpg
 creator:
   author:
     agent_name: Geier, Chester S.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '35985'
     url: http://www.gutenberg.org/2009/agents/35985
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65741#Run-Little-Monster
 gutenberg_issued: '2021-07-02'
 gutenberg_type: Text
 identifiers:
